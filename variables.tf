@@ -1,5 +1,5 @@
 variable "envPrefix" {
-  default = "POC-BlueGreen"
+  default = "POC-BlueGreen-tag"
 }
 
 variable "azs" {
